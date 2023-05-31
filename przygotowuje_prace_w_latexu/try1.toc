@@ -1,0 +1,21 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{Wprowadzanie}{\footnotesize 3}{}%
+\contentsline {section}{\numberline {1}Problemeatyka oraz charakterystyczne rozwiązania w głębokich sieciach CNN w zastosowaniu klasyfikacji zdjęć }{\footnotesize 5}{}%
+\contentsline {subsection}{\numberline {1.1}Problematyka zanikającego gradnietu}{\footnotesize 5}{}%
+\contentsline {subsection}{\numberline {1.2}Charakterystyczne rozwiązania w głębokich sieciach CNN }{\footnotesize 6}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Funkcja aktywacji ReLU}{\footnotesize 6}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Inicjalizacja wag przy użyciu Xavier/Glorot.}{\footnotesize 7}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Normalizacja danych lub warstw}{\footnotesize 8}{}%
+\contentsline {subsubsection}{\numberline {1.2.4} Architektur sieci, które umożliwiają przepływ gradientu w głąb sieci }{\footnotesize 8}{}%
+\contentsline {section}{\numberline {2}Dane uczące oraz ich przygotowanie}{\footnotesize 10}{}%
+\contentsline {section}{\numberline {3}Przedstwienie oraz omówienie własnej archtektury CNN}{\footnotesize 13}{}%
+\contentsline {section}{\numberline {4}Przedstwienie oraz omówienie archtektury sieci tf mobilenetv3 small minimal 100 }{\footnotesize 16}{}%
+\contentsline {section}{\numberline {5}Omówienie klasy LightningModule oraz optymalizatora ADAM}{\footnotesize 18}{}%
+\contentsline {section}{\numberline {6}Eksperyment I. badanie parametru rozmiaru wsadu oraz wielkości zdjęcia }{\footnotesize 19}{}%
+\contentsline {subsection}{\numberline {6.1}Metoda badawcza}{\footnotesize 21}{}%
+\contentsline {subsection}{\numberline {6.2}Wyniki}{\footnotesize 22}{}%
+\contentsline {section}{\numberline {7}Eksperyment II. Uczenie i porównanie modeli po 200 epokach}{\footnotesize 24}{}%
+\contentsline {subsection}{\numberline {7.1}Metoda badawcza}{\footnotesize 24}{}%
+\contentsline {subsection}{\numberline {7.2}Wyniki}{\footnotesize 25}{}%
+\contentsline {section}{\numberline {8}Podsumowanie}{\footnotesize 29}{}%
+\contentsline {section}{Literatura}{\footnotesize 31}{}%

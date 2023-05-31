@@ -1,0 +1,5 @@
+PWD d:/prz/sem4/AI/projAI/przygotowuje_prace_w_latexu
+INPUT c:/latex/texlive/2022/texmf.cnf
+INPUT c:/latex/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/latex/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/prz/sem4/AI/projAI/przygotowuje_prace_w_latexu/try1.tex

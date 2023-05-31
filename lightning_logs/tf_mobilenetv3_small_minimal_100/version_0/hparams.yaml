@@ -1,0 +1,8 @@
+batch_size: 8
+label_smoothing: 0
+lr: 0.0003
+num_classes: 19
+pretrained: false
+size: 384
+slect_model: null
+slect_model_timm: tf_mobilenetv3_small_minimal_100
